@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Classes>
+<Class name="eg.edu.alexu.csd.oop.draw.Circle">
+<x>598</x>
+<y>321</y>
+<inner>
+<RGB>-16777216</RGB>
+</inner>
+<outer>
+<RGB>16448250</RGB>
+</outer>
+<radius>60.0</radius>
+</Class>
+</Classes>
